@@ -9,7 +9,9 @@ To run this project, you will need to have the following installed on your syste
 * scikit-learn library
 * pandas
 * numpy
-
+## Dataset
+**The Link to the dataset:**
+`https://archive.ics.uci.edu/ml/datasets/Spambase`
 ## Installation
 **To install the necessary libraries with their versions, follow the steps below:**
 
